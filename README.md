@@ -9,5 +9,9 @@ I'm Abdellah, a frontend developer with a passion for creating beautiful web int
 2. **Project 2**: (Brief description)
    - [Link to the project or code repository](https://github.com/your-username/project2)
 
+### 🎓 Education:
+- Currently pursuing a degree in frontend development (Second Year)
 
+### 📧 Contact:
+- Let's collaborate! Feel free to reach out to me via [email address or LinkedIn profile link] to discuss frontend development or algorithmic problem-solving opportunities.
 
