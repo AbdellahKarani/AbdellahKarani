@@ -10,8 +10,8 @@ I'm Abdellah, a frontend developer with a passion for creating beautiful web int
    - [Link to the project or code repository](https://github.com/your-username/project2)
 
 ### 🎓 Education:
-- Currently pursuing a degree in frontend development (Second Year)
+- Currently pursuing a degree in Computer Science at Sultan Molay Siliman Unversity (Second Year)
 
 ### 📧 Contact:
-- Let's collaborate! Feel free to reach out to me via [email address or LinkedIn profile link] to discuss frontend development or algorithmic problem-solving opportunities.
+- Let's collaborate! Feel free to reach out to me via abdellahkarani@gmail.com to discuss frontend development or algorithmic problem-solving opportunities.
 
